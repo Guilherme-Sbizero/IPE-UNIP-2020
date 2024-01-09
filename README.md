@@ -1,5 +1,5 @@
-# I.P.E
+# IPE 2020/2
 
 ## Introdução a Programação Estruturada.
 
-<p>Repositória para mostrar os exercícios feitos nas aulas de Introdução a Programação Estruturada com Python.</p>
+- Repositória para mostrar os exercícios feitos nas aulas de Introdução a Programação Estruturada com Python.
