@@ -1,4 +1,4 @@
-# IPE 2020/2
+# IPE UNIP 2020/2
 
 ## Introdução a Programação Estruturada.
 
